@@ -1,5 +1,5 @@
 {
-  "presets": ["es2016-node5", "react"],
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
   "plugins": ["transform-async-to-generator", "array-includes"],
   "sourceMaps": "inline"
 }
